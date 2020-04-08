@@ -16,7 +16,7 @@ tags:
 
 If you make a blog online, you might as well start with a political rant.
 
-I have coalesced my political ideas down to three things that I _really care_ about.  The things that I would stand up for in a debate if I was ever in a position to.  Everything else, I would happily inflict my opinion upon in somebody else's debate but these I have thought about specifically.
+I have coalesced my political ideas down to three things that I _really care_ about.  The things that I would stand up for in a debate if I was ever in a position to.  Everything else, I would happily inflict my opinion upon in somebody else's debate but these I have thought about specifically. 
 
 ### Truth, Climate, and Privacy
 
