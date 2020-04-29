@@ -2,6 +2,7 @@
 layout:     post
 title:      Three Issue Voter, pt 1
 date:       2020-04-04
+edited:     2020-04-10
 summary:    Three things I think quite important politically
 categories: rants
 thumbnail-type: fas
@@ -92,3 +93,12 @@ An important caveat is that truth is not always possible.  Many issues that come
 - Any act by a foreign power to influence a person of power should be an act of war
   - _The people should implicitly trust that those in power are acting solely for the good of this nation and the world, not the nation that pays them or influences them_
   - It's like assassinating a polititian's credibility, or converting them to commit treason.  The degree is different, but influencing a polititian is in the same category and just as problematic.
+
+
+### Final notes
+
+I think the most urgent issue is actually Climate change, but I would argue that figuring out how to find and share objective Truth is more important because if we are to solve any problems at all, we will need to talk to each other and work together.
+
+Also, I want to separate out trivial/topical news from the kind of information sharing that require the above measures.  Opinions are important to share freely, and everybody is entitled to their own opinion.  Many shared facts are just not worth keeping track of, e.g. statements in fashion magazines don't need truth vetting and conflict-of-interest checking.
+
+Another controversial exemption I would make is military facts and secrets.  There is strategic value in posturing, delayed details, and outright falsehoods.  Wikileaks-level truths undermine this, and these truths should be handled differently from other public information.  It seems to me that journalists and watchdog agencies should certainly investigate the military and keep it within reasonable bounds.. but these groups should also respect the point of armies and whatever measures they do use.
