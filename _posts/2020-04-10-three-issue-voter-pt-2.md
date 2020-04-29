@@ -1,7 +1,8 @@
 ---
 layout:     post
 title:      Three Issue Voter, pt 2
-date:       2020-04-28
+date:       2020-04-10
+edited:     2020-04-28
 summary:    Three things I think quite important politically
 categories: rants
 thumbnail-type: fas
